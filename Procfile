@@ -1,2 +1,1 @@
-web: npm run server
-port: 3000
+web: node index.js

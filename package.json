@@ -7,11 +7,12 @@
     "server": "http-server -p 3000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ['markdown', 'md', 'marked', 'edit', 'node'],
   "author": "davidalves1 <alves.david@outlook.com>",
   "license": "MIT",
   "dependencies": {
     "marked": "^0.3.6",
+    "node-static": "^0.7.9",
     "purecss": "^1.0.0",
     "vue": "^2.4.2"
   }
