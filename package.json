@@ -7,7 +7,7 @@
     "server": "http-server -p 3000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ['markdown', 'md', 'marked', 'edit', 'node'],
+  "keywords": ["markdown", "md", "marked", "edit", "node"],
   "author": "davidalves1 <alves.david@outlook.com>",
   "license": "MIT",
   "dependencies": {
